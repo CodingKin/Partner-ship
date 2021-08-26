@@ -1,0 +1,48 @@
+.parent-div{
+	display: flex;
+}
+
+.section-1{
+	width: 50%;
+	background-color: white;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	text-align: center;
+}
+#section-2{
+	width: 50%;
+	background-color: darkorange;
+	padding-top: 7%;
+	text-align: center;
+	color: white;	
+	padding-right: 1%;
+	padding-left:1% ;
+}
+.subtitle{
+	font-size: 21px;
+	line-height: 45px;
+}
+body{
+	background-color: lightgrey;
+}
+.img-bertie{
+	weight: 400px;
+}
+h1{
+	font-family: Corbel Light;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 500px;
+}
+h2{
+	font-family: Corbel Light;
+}
+li{
+	list-style: none;
+	margin: 10px 20px;
+	display: inline-block;
+	font-size: 25px;
+	padding: 10px 10px;
+	color: white;
+	transition: .5s;
+}
